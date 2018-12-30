@@ -3,3 +3,5 @@ behave
 jsonschema
 simplejson
 PyYAML
+pytest
+mock
